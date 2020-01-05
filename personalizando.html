@@ -1,0 +1,9 @@
+<!-- Personalizando los botones de primefaces -*-*-*-* -->
+<p:commandButton  
+	 class="ui blue button"
+	 icon="fa fa-plus"  
+	 title="Crear"  
+	 action="#{cargosBean.instanciar}">
+	 oncomplete="PF('dlgCrear').show()" 
+	 update=":frmcrear"
+</p:commandButton>

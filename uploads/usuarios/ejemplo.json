@@ -1,0 +1,24 @@
+{
+  "prestamo": {
+       "id_prestamo": "5df8e8a9e35a860194353eb2",
+        "id_cliente": "5df8e8a9e35a860194353eb3",
+     	"importe": "1500000",
+        "tasa": "28.5",
+        "fec_alta": "'2019-12-18'",
+		"nro_cuotas: "56"
+		}
+		,
+		"beneficirios: [
+				{
+				"nro_benef": "1",
+				"nombre": "Pedro",
+				"porcentaje : "60"
+				},
+				{
+				"nro_benef": "2",
+				"nombre": "Juan",
+				"porcentaje : "60"
+				},
+		]
+	}
+}			
